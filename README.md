@@ -24,3 +24,7 @@ Basic package manager - Bundle multiple files into one, with encryption.
 - Change loading speed between files;
 - Includes usage examples;
 - Customizable export extension and path.
+
+## License:
+The code: MIT License.
+All images and sounds used in the project are in the public domain.
