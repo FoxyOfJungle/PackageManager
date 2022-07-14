@@ -15,3 +15,5 @@ Basic package manager - Bundle multiple files into one, with encryption.
 - Encryption for better security;
 - It supports compression, so it's something like ZIP;
 - You can choose to use encryption to make your files even more secure, using a secret key;
+- Get loading progress;
+- Includes usage examples.
