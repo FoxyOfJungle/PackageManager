@@ -19,6 +19,7 @@ Basic package manager - Bundle multiple files into one, with encryption.
 - It supports compression, so it's something like ZIP;
 - You can choose to use encryption to make your files even more secure, using a secret key;
 - Get loading progress;
+- Get the current loading file
 - Change loading speed between files;
 - Includes usage examples;
 - Customizable export extension and path.
