@@ -8,12 +8,17 @@ Basic package manager - Bundle multiple files into one, with encryption.
 - Basically a ZIP manager, but with a custom format;
 - It is an alternative to using the default "data.win" (not a substitute).
 
+![image](https://user-images.githubusercontent.com/52144406/179046371-8a057c66-7eeb-4e94-8125-2019cea81a7d.png)
+
 ## Features
 - Very easy to use and understand;
 - Add external files inside the package, sprites, fonts, surfaces, sounds...;
 - Remove and rename package items at any time;
+- Save and load packages;
 - Encryption for better security;
 - It supports compression, so it's something like ZIP;
 - You can choose to use encryption to make your files even more secure, using a secret key;
 - Get loading progress;
-- Includes usage examples.
+- Change loading speed between files;
+- Includes usage examples;
+- Customizable export extension and path.
