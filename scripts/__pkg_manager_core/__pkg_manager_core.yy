@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Core",
-    "path": "folders/Libraries/PackageManager/Core.yy",
+    "path": "folders/KazanGames/PackageManager/Core.yy",
   },
   "resourceVersion": "1.0",
   "name": "__pkg_manager_core",

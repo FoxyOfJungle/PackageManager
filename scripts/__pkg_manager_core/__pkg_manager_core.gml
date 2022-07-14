@@ -158,13 +158,14 @@ function package_load(package_name) {
 		var _json_string = buffer_read(_buff, buffer_string);
 		_contents_data = json_parse(_json_string);
 	} else {
+		show_error("Package \"" + package_name + "\" not found", true);
 		return -1;
 	}
 	return _contents_data;
 }
 
 function __GenerateResources(pkg_id) constructor {
-	__ppf_exception(!is_array(pkg_id), "Invalid package id");
+	if !is_array(pkg_id) return -1;
 	_contents_array = pkg_id;
 	_contents_size = array_length(_contents_array);
 	_current_progress = 0;
