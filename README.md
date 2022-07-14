@@ -13,7 +13,7 @@ Basic package manager - Bundle multiple files into one, with encryption.
 
 ## Features
 - Very easy to use and understand;
-- Add external files inside the package, sprites, fonts, surfaces, sounds...;
+- Add external files inside the package, buffers, sprites, fonts, surfaces, sounds...;
 - Remove and rename package items at any time;
 - Save and load packages;
 - Encryption for better security;
