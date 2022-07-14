@@ -6,6 +6,7 @@ Basic package manager - Bundle multiple files into one, with encryption.
 ## What is it for?
 - The purpose of this project is to package all the files you want into a single file, and then load them;
 - Basically a ZIP manager, but with a custom format;
+- Useful for in-game modding and file organization;
 - It is an alternative to using the default "data.win" (not a substitute).
 
 ![image](https://user-images.githubusercontent.com/52144406/179046371-8a057c66-7eeb-4e94-8125-2019cea81a7d.png)
